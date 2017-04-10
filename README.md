@@ -19,3 +19,5 @@ Details are provided in "how to build and run" file inside each question's folde
 Documentation is present in dist folder of each question dist->javadoc->index.html
 
 Class Diagrams of questions 3-8 are present in their respective folders
+
+Default branch has been changed to master-2 (branch which contains Q3-Q8)
