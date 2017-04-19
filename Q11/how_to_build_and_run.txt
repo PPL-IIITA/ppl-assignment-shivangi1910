@@ -1,0 +1,22 @@
+To Build run : 
+
+First clone the repository using the command
+
+$ https://github.com/PPL-IIITA/ppl-assignment-shivangi1910.git
+
+Change directory :
+
+$ cd ppl-assignment-shivangi1910/Q11/src
+
+To execute, make sure you have build the file first.
+then run command
+
+$ java q11.Q11
+
+log.txt stores the ans of the question(which is automatically generated after execution of program).
+ans is also printed on terminal
+
+
+
+
+***********************************************************************
