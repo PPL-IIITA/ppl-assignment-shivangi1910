@@ -1,0 +1,966 @@
+2017-04-19 04:53:48.423 : Commitement of Boy19andGirl1
+2017-04-19 04:53:48.428 Exception: Girl 1 doesn't get a boyfriend
+2017-04-19 04:53:48.428 Exception: Girl 2 doesn't get a boyfriend
+2017-04-19 04:53:48.428 : Commitement of Boy1andGirl4
+2017-04-19 04:53:48.429 Exception: Girl 4 doesn't get a boyfriend
+2017-04-19 04:53:48.429 : Commitement of Boy9andGirl6
+2017-04-19 04:53:48.429 Exception: Girl 6 doesn't get a boyfriend
+2017-04-19 04:53:48.43 Exception: Girl 7 doesn't get a boyfriend
+2017-04-19 04:53:48.43 : Commitement of Boy17andGirl9
+2017-04-19 04:53:48.43 Exception: Girl 9 doesn't get a boyfriend
+2017-04-19 04:53:48.431 Exception: Girl 10 doesn't get a boyfriend
+2017-04-19 04:53:48.431 Exception: Girl 11 doesn't get a boyfriend
+2017-04-19 04:53:48.431 Exception: Girl 12 doesn't get a boyfriend
+2017-04-19 04:53:48.432 Exception: Girl 13 doesn't get a boyfriend
+2017-04-19 04:53:48.432 : Commitement of Boy6andGirl15
+2017-04-19 04:53:48.432 : Commitement of Boy3andGirl16
+2017-04-19 04:53:48.432 Exception: Girl 16 doesn't get a boyfriend
+2017-04-19 04:53:48.432 : Commitement of Boy5andGirl18
+2017-04-19 04:53:48.433 : Commitement of Boy4andGirl19
+2017-04-19 04:53:48.433 Exception: Girl 19 doesn't get a boyfriend
+2017-04-19 04:53:48.433 : Commitement of Boy14andGirl21
+2017-04-19 04:53:48.433 : Commitement of Boy32andGirl22
+2017-04-19 04:53:48.433 Exception: Girl 22 doesn't get a boyfriend
+2017-04-19 04:53:48.434 Exception: Girl 23 doesn't get a boyfriend
+2017-04-19 04:53:48.434 : Commitement of Boy24andGirl25
+2017-04-19 04:53:48.436 Boy19 gifts Gift24 to Girl1
+2017-04-19 04:53:48.436 Boy19 gifts Gift19 to Girl1
+2017-04-19 04:53:48.436 Boy19 gifts Gift27 to Girl1
+2017-04-19 04:53:48.436 Boy19 gifts Gift34 to Girl1
+2017-04-19 04:53:48.436 Boy19 gifts Gift14 to Girl1
+2017-04-19 04:53:48.437 Boy19 gifts Gift10 to Girl1
+2017-04-19 04:53:48.437 Boy19 gifts Gift26 to Girl1
+2017-04-19 04:53:48.437 Boy19 gifts Gift37 to Girl1
+2017-04-19 04:53:48.437 Boy19 gifts Gift18 to Girl1
+2017-04-19 04:53:48.437 Boy19 gifts Gift29 to Girl1
+2017-04-19 04:53:48.437 Boy19 gifts Gift1 to Girl1
+2017-04-19 04:53:48.437 Boy19 gifts Gift21 to Girl1
+2017-04-19 04:53:48.437 Boy19 gifts Gift49 to Girl1
+2017-04-19 04:53:48.438 Boy19 gifts Gift46 to Girl1
+2017-04-19 04:53:48.438 Boy19 gifts Gift13 to Girl1
+2017-04-19 04:53:48.438 Boy19 gifts Gift47 to Girl1
+2017-04-19 04:53:48.438 Boy19 gifts Gift11 to Girl1
+2017-04-19 04:53:48.438 Boy19 gifts Gift41 to Girl1
+2017-04-19 04:53:48.438 Boy19 gifts Gift16 to Girl1
+2017-04-19 04:53:48.438 Boy19 gifts Gift20 to Girl1
+2017-04-19 04:53:48.438 Boy19 gifts Gift42 to Girl1
+2017-04-19 04:53:48.438 Boy19 gifts Gift35 to Girl1
+2017-04-19 04:53:48.439 Boy19 gifts Gift36 to Girl1
+2017-04-19 04:53:48.439 Boy19 gifts Gift48 to Girl1
+2017-04-19 04:53:48.439 Boy19 gifts Gift23 to Girl1
+2017-04-19 04:53:48.439 Boy19 gifts Gift6 to Girl1
+2017-04-19 04:53:48.439 Boy19 gifts Gift15 to Girl1
+2017-04-19 04:53:48.439 Boy19 gifts Gift40 to Girl1
+2017-04-19 04:53:48.439 Boy19 gifts Gift30 to Girl1
+2017-04-19 04:53:48.44 Boy1 gifts Gift24 to Girl4
+2017-04-19 04:53:48.44 Boy1 gifts Gift19 to Girl4
+2017-04-19 04:53:48.44 Boy1 gifts Gift27 to Girl4
+2017-04-19 04:53:48.44 Boy1 gifts Gift34 to Girl4
+2017-04-19 04:53:48.44 Boy1 gifts Gift14 to Girl4
+2017-04-19 04:53:48.44 Boy1 gifts Gift10 to Girl4
+2017-04-19 04:53:48.44 Boy1 gifts Gift26 to Girl4
+2017-04-19 04:53:48.44 Boy1 gifts Gift37 to Girl4
+2017-04-19 04:53:48.44 Boy1 gifts Gift18 to Girl4
+2017-04-19 04:53:48.441 Boy1 gifts Gift29 to Girl4
+2017-04-19 04:53:48.441 Boy1 gifts Gift1 to Girl4
+2017-04-19 04:53:48.441 Boy1 gifts Gift21 to Girl4
+2017-04-19 04:53:48.441 Boy1 gifts Gift49 to Girl4
+2017-04-19 04:53:48.441 Boy1 gifts Gift46 to Girl4
+2017-04-19 04:53:48.441 Boy1 gifts Gift13 to Girl4
+2017-04-19 04:53:48.441 Boy1 gifts Gift47 to Girl4
+2017-04-19 04:53:48.441 Boy1 gifts Gift11 to Girl4
+2017-04-19 04:53:48.442 Boy9 gifts Gift24 to Girl6
+2017-04-19 04:53:48.442 Boy9 gifts Gift19 to Girl6
+2017-04-19 04:53:48.442 Boy9 gifts Gift27 to Girl6
+2017-04-19 04:53:48.442 Boy9 gifts Gift34 to Girl6
+2017-04-19 04:53:48.442 Boy9 gifts Gift14 to Girl6
+2017-04-19 04:53:48.442 Boy9 gifts Gift10 to Girl6
+2017-04-19 04:53:48.442 Boy9 gifts Gift26 to Girl6
+2017-04-19 04:53:48.442 Boy9 gifts Gift37 to Girl6
+2017-04-19 04:53:48.443 Boy9 gifts Gift18 to Girl6
+2017-04-19 04:53:48.443 Boy9 gifts Gift29 to Girl6
+2017-04-19 04:53:48.443 Boy9 gifts Gift1 to Girl6
+2017-04-19 04:53:48.443 Boy9 gifts Gift21 to Girl6
+2017-04-19 04:53:48.443 Boy9 gifts Gift49 to Girl6
+2017-04-19 04:53:48.443 Boy9 gifts Gift46 to Girl6
+2017-04-19 04:53:48.443 Boy9 gifts Gift13 to Girl6
+2017-04-19 04:53:48.443 Boy9 gifts Gift47 to Girl6
+2017-04-19 04:53:48.444 Boy9 gifts Gift11 to Girl6
+2017-04-19 04:53:48.444 Boy9 gifts Gift41 to Girl6
+2017-04-19 04:53:48.444 Boy9 gifts Gift16 to Girl6
+2017-04-19 04:53:48.444 Boy9 gifts Gift20 to Girl6
+2017-04-19 04:53:48.444 Boy9 gifts Gift42 to Girl6
+2017-04-19 04:53:48.444 Boy9 gifts Gift35 to Girl6
+2017-04-19 04:53:48.444 Boy9 gifts Gift36 to Girl6
+2017-04-19 04:53:48.444 Boy9 gifts Gift48 to Girl6
+2017-04-19 04:53:48.444 Boy9 gifts Gift23 to Girl6
+2017-04-19 04:53:48.445 Boy17 gifts Gift24 to Girl9
+2017-04-19 04:53:48.445 Boy17 gifts Gift19 to Girl9
+2017-04-19 04:53:48.445 Boy17 gifts Gift27 to Girl9
+2017-04-19 04:53:48.445 Boy17 gifts Gift34 to Girl9
+2017-04-19 04:53:48.445 Boy17 gifts Gift14 to Girl9
+2017-04-19 04:53:48.445 Boy17 gifts Gift10 to Girl9
+2017-04-19 04:53:48.445 Boy17 gifts Gift26 to Girl9
+2017-04-19 04:53:48.445 Boy17 gifts Gift37 to Girl9
+2017-04-19 04:53:48.445 Boy17 gifts Gift18 to Girl9
+2017-04-19 04:53:48.446 Boy17 gifts Gift29 to Girl9
+2017-04-19 04:53:48.446 Boy17 gifts Gift1 to Girl9
+2017-04-19 04:53:48.446 Boy17 gifts Gift21 to Girl9
+2017-04-19 04:53:48.446 Boy17 gifts Gift49 to Girl9
+2017-04-19 04:53:48.446 Boy17 gifts Gift46 to Girl9
+2017-04-19 04:53:48.446 Boy17 gifts Gift13 to Girl9
+2017-04-19 04:53:48.446 Boy17 gifts Gift47 to Girl9
+2017-04-19 04:53:48.446 Boy17 gifts Gift11 to Girl9
+2017-04-19 04:53:48.446 Boy17 gifts Gift41 to Girl9
+2017-04-19 04:53:48.447 Boy17 gifts Gift16 to Girl9
+2017-04-19 04:53:48.447 Boy17 gifts Gift20 to Girl9
+2017-04-19 04:53:48.447 Boy17 gifts Gift42 to Girl9
+2017-04-19 04:53:48.447 Boy17 gifts Gift35 to Girl9
+2017-04-19 04:53:48.447 Boy17 gifts Gift36 to Girl9
+2017-04-19 04:53:48.447 Boy17 gifts Gift48 to Girl9
+2017-04-19 04:53:48.447 Boy17 gifts Gift23 to Girl9
+2017-04-19 04:53:48.447 Boy6 gifts Gift39 to Girl15
+2017-04-19 04:53:48.448 Boy6 gifts Gift22 to Girl15
+2017-04-19 04:53:48.448 Boy6 gifts Gift31 to Girl15
+2017-04-19 04:53:48.448 Boy6 gifts Gift50 to Girl15
+2017-04-19 04:53:48.448 Boy6 gifts Gift17 to Girl15
+2017-04-19 04:53:48.448 Boy6 gifts Gift45 to Girl15
+2017-04-19 04:53:48.448 Boy3 gifts Gift24 to Girl16
+2017-04-19 04:53:48.448 Boy3 gifts Gift19 to Girl16
+2017-04-19 04:53:48.448 Boy3 gifts Gift27 to Girl16
+2017-04-19 04:53:48.448 Boy3 gifts Gift34 to Girl16
+2017-04-19 04:53:48.448 Boy3 gifts Gift14 to Girl16
+2017-04-19 04:53:48.449 Boy3 gifts Gift10 to Girl16
+2017-04-19 04:53:48.449 Boy3 gifts Gift26 to Girl16
+2017-04-19 04:53:48.449 Boy3 gifts Gift37 to Girl16
+2017-04-19 04:53:48.449 Boy3 gifts Gift18 to Girl16
+2017-04-19 04:53:48.449 Boy3 gifts Gift29 to Girl16
+2017-04-19 04:53:48.449 Boy3 gifts Gift1 to Girl16
+2017-04-19 04:53:48.449 Boy3 gifts Gift21 to Girl16
+2017-04-19 04:53:48.449 Boy3 gifts Gift49 to Girl16
+2017-04-19 04:53:48.449 Boy5 gifts Gift24 to Girl18
+2017-04-19 04:53:48.45 Boy5 gifts Gift19 to Girl18
+2017-04-19 04:53:48.45 Boy5 gifts Gift27 to Girl18
+2017-04-19 04:53:48.45 Boy5 gifts Gift34 to Girl18
+2017-04-19 04:53:48.45 Boy5 gifts Gift14 to Girl18
+2017-04-19 04:53:48.45 Boy5 gifts Gift10 to Girl18
+2017-04-19 04:53:48.45 Boy5 gifts Gift26 to Girl18
+2017-04-19 04:53:48.45 Boy5 gifts Gift37 to Girl18
+2017-04-19 04:53:48.45 Boy5 gifts Gift18 to Girl18
+2017-04-19 04:53:48.45 Boy5 gifts Gift29 to Girl18
+2017-04-19 04:53:48.451 Boy5 gifts Gift1 to Girl18
+2017-04-19 04:53:48.451 Boy5 gifts Gift21 to Girl18
+2017-04-19 04:53:48.451 Boy5 gifts Gift49 to Girl18
+2017-04-19 04:53:48.451 Boy5 gifts Gift46 to Girl18
+2017-04-19 04:53:48.451 Boy5 gifts Gift13 to Girl18
+2017-04-19 04:53:48.455 Boy5 gifts Gift47 to Girl18
+2017-04-19 04:53:48.456 Boy5 gifts Gift11 to Girl18
+2017-04-19 04:53:48.456 Boy5 gifts Gift41 to Girl18
+2017-04-19 04:53:48.456 Boy5 gifts Gift16 to Girl18
+2017-04-19 04:53:48.457 Boy5 gifts Gift20 to Girl18
+2017-04-19 04:53:48.457 Boy4 gifts Gift24 to Girl19
+2017-04-19 04:53:48.457 Boy4 gifts Gift19 to Girl19
+2017-04-19 04:53:48.458 Boy4 gifts Gift27 to Girl19
+2017-04-19 04:53:48.458 Boy4 gifts Gift34 to Girl19
+2017-04-19 04:53:48.458 Boy4 gifts Gift14 to Girl19
+2017-04-19 04:53:48.459 Boy4 gifts Gift10 to Girl19
+2017-04-19 04:53:48.459 Boy4 gifts Gift26 to Girl19
+2017-04-19 04:53:48.459 Boy4 gifts Gift37 to Girl19
+2017-04-19 04:53:48.46 Boy4 gifts Gift18 to Girl19
+2017-04-19 04:53:48.46 Boy4 gifts Gift29 to Girl19
+2017-04-19 04:53:48.46 Boy4 gifts Gift1 to Girl19
+2017-04-19 04:53:48.46 Boy4 gifts Gift21 to Girl19
+2017-04-19 04:53:48.461 Boy4 gifts Gift49 to Girl19
+2017-04-19 04:53:48.461 Boy4 gifts Gift46 to Girl19
+2017-04-19 04:53:48.461 Boy4 gifts Gift13 to Girl19
+2017-04-19 04:53:48.461 Boy4 gifts Gift47 to Girl19
+2017-04-19 04:53:48.461 Boy4 gifts Gift11 to Girl19
+2017-04-19 04:53:48.462 Boy4 gifts Gift41 to Girl19
+2017-04-19 04:53:48.462 Boy4 gifts Gift16 to Girl19
+2017-04-19 04:53:48.462 Boy14 gifts Gift39 to Girl21
+2017-04-19 04:53:48.462 Boy14 gifts Gift22 to Girl21
+2017-04-19 04:53:48.462 Boy14 gifts Gift31 to Girl21
+2017-04-19 04:53:48.462 Boy14 gifts Gift50 to Girl21
+2017-04-19 04:53:48.462 Boy14 gifts Gift17 to Girl21
+2017-04-19 04:53:48.462 Boy32 gifts Gift24 to Girl22
+2017-04-19 04:53:48.462 Boy32 gifts Gift19 to Girl22
+2017-04-19 04:53:48.463 Boy32 gifts Gift27 to Girl22
+2017-04-19 04:53:48.463 Boy32 gifts Gift34 to Girl22
+2017-04-19 04:53:48.463 Boy32 gifts Gift14 to Girl22
+2017-04-19 04:53:48.463 Boy32 gifts Gift10 to Girl22
+2017-04-19 04:53:48.463 Boy32 gifts Gift26 to Girl22
+2017-04-19 04:53:48.463 Boy32 gifts Gift37 to Girl22
+2017-04-19 04:53:48.463 Boy32 gifts Gift18 to Girl22
+2017-04-19 04:53:48.463 Boy32 gifts Gift29 to Girl22
+2017-04-19 04:53:48.463 Boy32 gifts Gift1 to Girl22
+2017-04-19 04:53:48.464 Boy32 gifts Gift21 to Girl22
+2017-04-19 04:53:48.464 Boy32 gifts Gift49 to Girl22
+2017-04-19 04:53:48.464 Boy32 gifts Gift46 to Girl22
+2017-04-19 04:53:48.464 Boy32 gifts Gift13 to Girl22
+2017-04-19 04:53:48.464 Boy32 gifts Gift47 to Girl22
+2017-04-19 04:53:48.464 Boy32 gifts Gift11 to Girl22
+2017-04-19 04:53:48.464 Boy32 gifts Gift41 to Girl22
+2017-04-19 04:53:48.464 Boy32 gifts Gift16 to Girl22
+2017-04-19 04:53:48.464 Boy32 gifts Gift20 to Girl22
+2017-04-19 04:53:48.464 Boy32 gifts Gift42 to Girl22
+2017-04-19 04:53:48.465 Boy32 gifts Gift35 to Girl22
+2017-04-19 04:53:48.465 Boy32 gifts Gift36 to Girl22
+2017-04-19 04:53:48.465 Boy32 gifts Gift48 to Girl22
+2017-04-19 04:53:48.465 Boy32 gifts Gift23 to Girl22
+2017-04-19 04:53:48.465 Boy32 gifts Gift6 to Girl22
+2017-04-19 04:53:48.465 Boy32 gifts Gift15 to Girl22
+2017-04-19 04:53:48.465 Boy32 gifts Gift40 to Girl22
+2017-04-19 04:53:48.465 Boy24 gifts Gift24 to Girl25
+2017-04-19 04:53:48.465 Boy24 gifts Gift19 to Girl25
+2017-04-19 04:53:48.466 Boy24 gifts Gift27 to Girl25
+2017-04-19 04:53:48.466 Boy24 gifts Gift34 to Girl25
+2017-04-19 04:53:48.466 Boy24 gifts Gift14 to Girl25
+2017-04-19 04:53:48.466 Boy24 gifts Gift10 to Girl25
+2017-04-19 04:53:48.466 Boy24 gifts Gift26 to Girl25
+2017-04-19 04:53:48.466 Boy24 gifts Gift37 to Girl25
+2017-04-19 04:53:48.466 Boy24 gifts Gift18 to Girl25
+2017-04-19 04:53:48.466 Boy24 gifts Gift29 to Girl25
+2017-04-19 04:53:48.466 Boy24 gifts Gift1 to Girl25
+2017-04-19 04:53:48.467 Boy24 gifts Gift21 to Girl25
+2017-04-19 04:53:48.467 Boy24 gifts Gift49 to Girl25
+2017-04-19 04:53:48.467 Boy24 gifts Gift46 to Girl25
+2017-04-19 04:53:48.467 Boy24 gifts Gift13 to Girl25
+2017-04-19 04:53:48.467 Boy24 gifts Gift47 to Girl25
+2017-04-19 04:53:48.467 Boy24 gifts Gift11 to Girl25
+2017-04-19 04:53:48.467 Boy24 gifts Gift41 to Girl25
+2017-04-19 04:53:48.467 Boy24 gifts Gift16 to Girl25
+2017-04-19 04:53:48.467 Boy24 gifts Gift20 to Girl25
+2017-04-19 04:53:48.467 Boy24 gifts Gift42 to Girl25
+2017-04-19 04:53:48.468 Boy24 gifts Gift35 to Girl25
+2017-04-19 04:53:48.468 Boy24 gifts Gift36 to Girl25
+2017-04-19 04:53:48.468 Boy24 gifts Gift48 to Girl25
+2017-04-19 04:53:48.468 Boy24 gifts Gift23 to Girl25
+2017-04-19 04:53:48.468 Exception: Less than 15 couples formed
+2017-04-19 04:53:48.469 Exception: Less than 15 couples formed
+2017-04-19 04:53:48.469 : Breakup of Boy32andGirl22
+2017-04-19 04:53:48.47 : Breakup of Boy17andGirl9
+2017-04-19 04:53:48.47 : Breakup of Boy14andGirl21
+2017-04-19 04:53:48.47 : Breakup of Boy6andGirl15
+2017-04-19 04:53:48.47 : Breakup of Boy5andGirl18
+2017-04-19 04:53:48.47 : Breakup of Boy24andGirl25
+2017-04-19 04:53:48.47 : Breakup of Boy9andGirl6
+2017-04-19 04:53:48.47 : Breakup of Boy19andGirl1
+2017-04-19 04:53:48.47 : Breakup of Boy3andGirl16
+2017-04-19 04:53:48.47 : Breakup of Boy1andGirl4
+2017-04-19 04:53:48.47 : Breakup of Boy4andGirl19
+2017-04-19 04:53:48.471 : Commitement of Boy19andGirl1
+2017-04-19 04:53:48.471 Exception: Girl 0 doesn't get a boyfriend
+2017-04-19 04:53:48.471 Exception: Girl 1 doesn't get a boyfriend
+2017-04-19 04:53:48.471 Exception: Girl 2 doesn't get a boyfriend
+2017-04-19 04:53:48.471 : Commitement of Boy98andGirl4
+2017-04-19 04:53:48.471 Exception: Girl 3 doesn't get a boyfriend
+2017-04-19 04:53:48.471 Exception: Girl 4 doesn't get a boyfriend
+2017-04-19 04:53:48.471 : Commitement of Boy96andGirl6
+2017-04-19 04:53:48.471 Exception: Girl 5 doesn't get a boyfriend
+2017-04-19 04:53:48.471 Exception: Girl 6 doesn't get a boyfriend
+2017-04-19 04:53:48.471 Exception: Girl 7 doesn't get a boyfriend
+2017-04-19 04:53:48.472 : Commitement of Boy88andGirl9
+2017-04-19 04:53:48.472 Exception: Girl 8 doesn't get a boyfriend
+2017-04-19 04:53:48.472 Exception: Girl 9 doesn't get a boyfriend
+2017-04-19 04:53:48.472 Exception: Girl 10 doesn't get a boyfriend
+2017-04-19 04:53:48.472 Exception: Girl 0 doesn't get a boyfriend
+2017-04-19 04:53:48.472 Exception: Girl 1 doesn't get a boyfriend
+2017-04-19 04:53:48.472 Exception: Girl 2 doesn't get a boyfriend
+2017-04-19 04:53:48.472 Exception: Girl 3 doesn't get a boyfriend
+2017-04-19 04:53:48.472 Exception: Girl 4 doesn't get a boyfriend
+2017-04-19 04:53:48.473 Exception: Girl 5 doesn't get a boyfriend
+2017-04-19 04:53:48.473 Exception: Girl 6 doesn't get a boyfriend
+2017-04-19 04:53:48.473 Exception: Girl 7 doesn't get a boyfriend
+2017-04-19 04:53:48.473 Exception: Girl 8 doesn't get a boyfriend
+2017-04-19 04:53:48.473 Exception: Girl 9 doesn't get a boyfriend
+2017-04-19 04:53:48.473 Exception: Girl 10 doesn't get a boyfriend
+2017-04-19 04:53:48.473 Exception: Girl 11 doesn't get a boyfriend
+2017-04-19 04:53:48.473 Exception: Girl 12 doesn't get a boyfriend
+2017-04-19 04:53:48.473 Exception: Girl 13 doesn't get a boyfriend
+2017-04-19 04:53:48.474 : Commitement of Boy1andGirl15
+2017-04-19 04:53:48.474 : Commitement of Boy3andGirl16
+2017-04-19 04:53:48.474 Exception: Girl 16 doesn't get a boyfriend
+2017-04-19 04:53:48.474 : Commitement of Boy5andGirl18
+2017-04-19 04:53:48.474 : Commitement of Boy4andGirl19
+2017-04-19 04:53:48.474 Exception: Girl 19 doesn't get a boyfriend
+2017-04-19 04:53:48.474 : Commitement of Boy14andGirl21
+2017-04-19 04:53:48.474 : Commitement of Boy32andGirl22
+2017-04-19 04:53:48.475 Exception: Girl 22 doesn't get a boyfriend
+2017-04-19 04:53:48.475 Exception: Girl 23 doesn't get a boyfriend
+2017-04-19 04:53:48.475 : Commitement of Boy9andGirl25
+2017-04-19 04:53:48.475 Boy19 gifts Gift24 to Girl1
+2017-04-19 04:53:48.476 Boy19 gifts Gift19 to Girl1
+2017-04-19 04:53:48.476 Boy19 gifts Gift27 to Girl1
+2017-04-19 04:53:48.476 Boy19 gifts Gift34 to Girl1
+2017-04-19 04:53:48.476 Boy19 gifts Gift14 to Girl1
+2017-04-19 04:53:48.482 Boy19 gifts Gift10 to Girl1
+2017-04-19 04:53:48.482 Boy19 gifts Gift26 to Girl1
+2017-04-19 04:53:48.483 Boy19 gifts Gift37 to Girl1
+2017-04-19 04:53:48.483 Boy19 gifts Gift18 to Girl1
+2017-04-19 04:53:48.483 Boy19 gifts Gift29 to Girl1
+2017-04-19 04:53:48.483 Boy19 gifts Gift1 to Girl1
+2017-04-19 04:53:48.483 Boy19 gifts Gift21 to Girl1
+2017-04-19 04:53:48.483 Boy19 gifts Gift49 to Girl1
+2017-04-19 04:53:48.483 Boy19 gifts Gift46 to Girl1
+2017-04-19 04:53:48.483 Boy19 gifts Gift13 to Girl1
+2017-04-19 04:53:48.483 Boy19 gifts Gift47 to Girl1
+2017-04-19 04:53:48.483 Boy19 gifts Gift11 to Girl1
+2017-04-19 04:53:48.483 Boy19 gifts Gift41 to Girl1
+2017-04-19 04:53:48.484 Boy19 gifts Gift16 to Girl1
+2017-04-19 04:53:48.484 Boy19 gifts Gift20 to Girl1
+2017-04-19 04:53:48.484 Boy19 gifts Gift42 to Girl1
+2017-04-19 04:53:48.484 Boy19 gifts Gift35 to Girl1
+2017-04-19 04:53:48.484 Boy19 gifts Gift36 to Girl1
+2017-04-19 04:53:48.484 Boy19 gifts Gift48 to Girl1
+2017-04-19 04:53:48.484 Boy19 gifts Gift23 to Girl1
+2017-04-19 04:53:48.484 Boy19 gifts Gift6 to Girl1
+2017-04-19 04:53:48.484 Boy19 gifts Gift15 to Girl1
+2017-04-19 04:53:48.484 Boy19 gifts Gift40 to Girl1
+2017-04-19 04:53:48.484 Boy19 gifts Gift30 to Girl1
+2017-04-19 04:53:48.484 Boy98 gifts Gift39 to Girl4
+2017-04-19 04:53:48.484 Boy98 gifts Gift22 to Girl4
+2017-04-19 04:53:48.484 Boy98 gifts Gift31 to Girl4
+2017-04-19 04:53:48.485 Boy98 gifts Gift50 to Girl4
+2017-04-19 04:53:48.485 Boy96 gifts Gift39 to Girl6
+2017-04-19 04:53:48.485 Boy96 gifts Gift22 to Girl6
+2017-04-19 04:53:48.485 Boy96 gifts Gift31 to Girl6
+2017-04-19 04:53:48.485 Boy96 gifts Gift50 to Girl6
+2017-04-19 04:53:48.485 Boy96 gifts Gift17 to Girl6
+2017-04-19 04:53:48.485 Boy96 gifts Gift45 to Girl6
+2017-04-19 04:53:48.485 Boy96 gifts Gift9 to Girl6
+2017-04-19 04:53:48.485 Boy96 gifts Gift4 to Girl6
+2017-04-19 04:53:48.485 Boy88 gifts Gift24 to Girl9
+2017-04-19 04:53:48.485 Boy88 gifts Gift19 to Girl9
+2017-04-19 04:53:48.485 Boy88 gifts Gift27 to Girl9
+2017-04-19 04:53:48.485 Boy88 gifts Gift34 to Girl9
+2017-04-19 04:53:48.485 Boy88 gifts Gift14 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift10 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift26 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift37 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift18 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift29 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift1 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift21 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift49 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift46 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift13 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift47 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift11 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift41 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift16 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift20 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift42 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift35 to Girl9
+2017-04-19 04:53:48.486 Boy88 gifts Gift36 to Girl9
+2017-04-19 04:53:48.487 Boy88 gifts Gift48 to Girl9
+2017-04-19 04:53:48.487 Boy88 gifts Gift23 to Girl9
+2017-04-19 04:53:48.487 Boy1 gifts Gift24 to Girl15
+2017-04-19 04:53:48.487 Boy1 gifts Gift19 to Girl15
+2017-04-19 04:53:48.487 Boy1 gifts Gift27 to Girl15
+2017-04-19 04:53:48.487 Boy1 gifts Gift34 to Girl15
+2017-04-19 04:53:48.487 Boy1 gifts Gift14 to Girl15
+2017-04-19 04:53:48.487 Boy1 gifts Gift10 to Girl15
+2017-04-19 04:53:48.487 Boy1 gifts Gift26 to Girl15
+2017-04-19 04:53:48.487 Boy1 gifts Gift37 to Girl15
+2017-04-19 04:53:48.487 Boy1 gifts Gift18 to Girl15
+2017-04-19 04:53:48.487 Boy1 gifts Gift29 to Girl15
+2017-04-19 04:53:48.487 Boy1 gifts Gift1 to Girl15
+2017-04-19 04:53:48.487 Boy1 gifts Gift21 to Girl15
+2017-04-19 04:53:48.487 Boy1 gifts Gift49 to Girl15
+2017-04-19 04:53:48.487 Boy1 gifts Gift46 to Girl15
+2017-04-19 04:53:48.487 Boy1 gifts Gift13 to Girl15
+2017-04-19 04:53:48.488 Boy1 gifts Gift47 to Girl15
+2017-04-19 04:53:48.488 Boy1 gifts Gift11 to Girl15
+2017-04-19 04:53:48.488 Boy1 gifts Gift41 to Girl15
+2017-04-19 04:53:48.488 Boy1 gifts Gift16 to Girl15
+2017-04-19 04:53:48.488 Boy1 gifts Gift20 to Girl15
+2017-04-19 04:53:48.488 Boy1 gifts Gift42 to Girl15
+2017-04-19 04:53:48.488 Boy1 gifts Gift35 to Girl15
+2017-04-19 04:53:48.488 Boy1 gifts Gift36 to Girl15
+2017-04-19 04:53:48.488 Boy3 gifts Gift24 to Girl16
+2017-04-19 04:53:48.488 Boy3 gifts Gift19 to Girl16
+2017-04-19 04:53:48.488 Boy3 gifts Gift27 to Girl16
+2017-04-19 04:53:48.488 Boy3 gifts Gift34 to Girl16
+2017-04-19 04:53:48.488 Boy3 gifts Gift14 to Girl16
+2017-04-19 04:53:48.488 Boy3 gifts Gift10 to Girl16
+2017-04-19 04:53:48.488 Boy3 gifts Gift26 to Girl16
+2017-04-19 04:53:48.488 Boy3 gifts Gift37 to Girl16
+2017-04-19 04:53:48.488 Boy3 gifts Gift18 to Girl16
+2017-04-19 04:53:48.489 Boy3 gifts Gift29 to Girl16
+2017-04-19 04:53:48.489 Boy3 gifts Gift1 to Girl16
+2017-04-19 04:53:48.489 Boy3 gifts Gift21 to Girl16
+2017-04-19 04:53:48.489 Boy3 gifts Gift49 to Girl16
+2017-04-19 04:53:48.489 Boy5 gifts Gift24 to Girl18
+2017-04-19 04:53:48.489 Boy5 gifts Gift19 to Girl18
+2017-04-19 04:53:48.489 Boy5 gifts Gift27 to Girl18
+2017-04-19 04:53:48.489 Boy5 gifts Gift34 to Girl18
+2017-04-19 04:53:48.489 Boy5 gifts Gift14 to Girl18
+2017-04-19 04:53:48.489 Boy5 gifts Gift10 to Girl18
+2017-04-19 04:53:48.489 Boy5 gifts Gift26 to Girl18
+2017-04-19 04:53:48.489 Boy5 gifts Gift37 to Girl18
+2017-04-19 04:53:48.489 Boy5 gifts Gift18 to Girl18
+2017-04-19 04:53:48.489 Boy5 gifts Gift29 to Girl18
+2017-04-19 04:53:48.489 Boy5 gifts Gift1 to Girl18
+2017-04-19 04:53:48.489 Boy5 gifts Gift21 to Girl18
+2017-04-19 04:53:48.49 Boy5 gifts Gift49 to Girl18
+2017-04-19 04:53:48.49 Boy5 gifts Gift46 to Girl18
+2017-04-19 04:53:48.49 Boy5 gifts Gift13 to Girl18
+2017-04-19 04:53:48.49 Boy5 gifts Gift47 to Girl18
+2017-04-19 04:53:48.49 Boy5 gifts Gift11 to Girl18
+2017-04-19 04:53:48.49 Boy5 gifts Gift41 to Girl18
+2017-04-19 04:53:48.49 Boy5 gifts Gift16 to Girl18
+2017-04-19 04:53:48.49 Boy5 gifts Gift20 to Girl18
+2017-04-19 04:53:48.49 Boy4 gifts Gift24 to Girl19
+2017-04-19 04:53:48.49 Boy4 gifts Gift19 to Girl19
+2017-04-19 04:53:48.49 Boy4 gifts Gift27 to Girl19
+2017-04-19 04:53:48.49 Boy4 gifts Gift34 to Girl19
+2017-04-19 04:53:48.49 Boy4 gifts Gift14 to Girl19
+2017-04-19 04:53:48.491 Boy4 gifts Gift10 to Girl19
+2017-04-19 04:53:48.491 Boy4 gifts Gift26 to Girl19
+2017-04-19 04:53:48.491 Boy4 gifts Gift37 to Girl19
+2017-04-19 04:53:48.491 Boy4 gifts Gift18 to Girl19
+2017-04-19 04:53:48.491 Boy4 gifts Gift29 to Girl19
+2017-04-19 04:53:48.491 Boy4 gifts Gift1 to Girl19
+2017-04-19 04:53:48.491 Boy4 gifts Gift21 to Girl19
+2017-04-19 04:53:48.491 Boy4 gifts Gift49 to Girl19
+2017-04-19 04:53:48.491 Boy4 gifts Gift46 to Girl19
+2017-04-19 04:53:48.491 Boy4 gifts Gift13 to Girl19
+2017-04-19 04:53:48.491 Boy4 gifts Gift47 to Girl19
+2017-04-19 04:53:48.491 Boy4 gifts Gift11 to Girl19
+2017-04-19 04:53:48.491 Boy4 gifts Gift41 to Girl19
+2017-04-19 04:53:48.492 Boy4 gifts Gift16 to Girl19
+2017-04-19 04:53:48.492 Boy14 gifts Gift39 to Girl21
+2017-04-19 04:53:48.492 Boy14 gifts Gift22 to Girl21
+2017-04-19 04:53:48.492 Boy14 gifts Gift31 to Girl21
+2017-04-19 04:53:48.492 Boy14 gifts Gift50 to Girl21
+2017-04-19 04:53:48.492 Boy14 gifts Gift17 to Girl21
+2017-04-19 04:53:48.492 Boy32 gifts Gift24 to Girl22
+2017-04-19 04:53:48.492 Boy32 gifts Gift19 to Girl22
+2017-04-19 04:53:48.492 Boy32 gifts Gift27 to Girl22
+2017-04-19 04:53:48.492 Boy32 gifts Gift34 to Girl22
+2017-04-19 04:53:48.492 Boy32 gifts Gift14 to Girl22
+2017-04-19 04:53:48.492 Boy32 gifts Gift10 to Girl22
+2017-04-19 04:53:48.493 Boy32 gifts Gift26 to Girl22
+2017-04-19 04:53:48.493 Boy32 gifts Gift37 to Girl22
+2017-04-19 04:53:48.493 Boy32 gifts Gift18 to Girl22
+2017-04-19 04:53:48.493 Boy32 gifts Gift29 to Girl22
+2017-04-19 04:53:48.493 Boy32 gifts Gift1 to Girl22
+2017-04-19 04:53:48.494 Boy32 gifts Gift21 to Girl22
+2017-04-19 04:53:48.494 Boy32 gifts Gift49 to Girl22
+2017-04-19 04:53:48.494 Boy32 gifts Gift46 to Girl22
+2017-04-19 04:53:48.494 Boy32 gifts Gift13 to Girl22
+2017-04-19 04:53:48.494 Boy32 gifts Gift47 to Girl22
+2017-04-19 04:53:48.494 Boy32 gifts Gift11 to Girl22
+2017-04-19 04:53:48.494 Boy32 gifts Gift41 to Girl22
+2017-04-19 04:53:48.494 Boy32 gifts Gift16 to Girl22
+2017-04-19 04:53:48.494 Boy32 gifts Gift20 to Girl22
+2017-04-19 04:53:48.494 Boy32 gifts Gift42 to Girl22
+2017-04-19 04:53:48.494 Boy32 gifts Gift35 to Girl22
+2017-04-19 04:53:48.494 Boy32 gifts Gift36 to Girl22
+2017-04-19 04:53:48.495 Boy32 gifts Gift48 to Girl22
+2017-04-19 04:53:48.495 Boy32 gifts Gift23 to Girl22
+2017-04-19 04:53:48.495 Boy32 gifts Gift6 to Girl22
+2017-04-19 04:53:48.495 Boy32 gifts Gift15 to Girl22
+2017-04-19 04:53:48.495 Boy32 gifts Gift40 to Girl22
+2017-04-19 04:53:48.495 Boy9 gifts Gift24 to Girl25
+2017-04-19 04:53:48.495 Boy9 gifts Gift19 to Girl25
+2017-04-19 04:53:48.495 Boy9 gifts Gift27 to Girl25
+2017-04-19 04:53:48.495 Boy9 gifts Gift34 to Girl25
+2017-04-19 04:53:48.495 Boy9 gifts Gift14 to Girl25
+2017-04-19 04:53:48.495 Boy9 gifts Gift10 to Girl25
+2017-04-19 04:53:48.496 Boy9 gifts Gift26 to Girl25
+2017-04-19 04:53:48.496 Boy9 gifts Gift37 to Girl25
+2017-04-19 04:53:48.496 Boy9 gifts Gift18 to Girl25
+2017-04-19 04:53:48.496 Boy9 gifts Gift29 to Girl25
+2017-04-19 04:53:48.496 Boy9 gifts Gift1 to Girl25
+2017-04-19 04:53:48.496 Boy9 gifts Gift21 to Girl25
+2017-04-19 04:53:48.496 Boy9 gifts Gift49 to Girl25
+2017-04-19 04:53:48.496 Boy9 gifts Gift46 to Girl25
+2017-04-19 04:53:48.496 Boy9 gifts Gift13 to Girl25
+2017-04-19 04:53:48.496 Boy9 gifts Gift47 to Girl25
+2017-04-19 04:53:48.496 Boy9 gifts Gift11 to Girl25
+2017-04-19 04:53:48.496 Boy9 gifts Gift41 to Girl25
+2017-04-19 04:53:48.496 Boy9 gifts Gift16 to Girl25
+2017-04-19 04:53:48.497 Boy9 gifts Gift20 to Girl25
+2017-04-19 04:53:48.497 Boy9 gifts Gift42 to Girl25
+2017-04-19 04:53:48.497 Boy9 gifts Gift35 to Girl25
+2017-04-19 04:53:48.497 Boy9 gifts Gift36 to Girl25
+2017-04-19 04:53:48.497 Boy9 gifts Gift48 to Girl25
+2017-04-19 04:53:48.497 Boy9 gifts Gift23 to Girl25
+2017-04-19 04:53:48.497 Exception: Less than 15 couples formed
+2017-04-19 04:53:48.502 Exception: Girl 0 doesn't get a boyfriend
+2017-04-19 04:53:48.503 Exception: Boy 0 doesn't get a girlfriend
+2017-04-19 04:53:48.503 Exception: Girl 1 doesn't get a boyfriend
+2017-04-19 04:53:48.503 Exception: Boy 1 doesn't get a girlfriend
+2017-04-19 04:53:48.504 Exception: Girl 2 doesn't get a boyfriend
+2017-04-19 04:53:48.504 Exception: Boy 2 doesn't get a girlfriend
+2017-04-19 04:53:48.504 Exception: Girl 3 doesn't get a boyfriend
+2017-04-19 04:53:48.505 Exception: Boy 3 doesn't get a girlfriend
+2017-04-19 04:53:48.505 Exception: Girl 4 doesn't get a boyfriend
+2017-04-19 04:53:48.505 Exception: Boy 4 doesn't get a girlfriend
+2017-04-19 04:53:48.505 Exception: Girl 5 doesn't get a boyfriend
+2017-04-19 04:53:48.506 Exception: Boy 5 doesn't get a girlfriend
+2017-04-19 04:53:48.506 Exception: Girl 6 doesn't get a boyfriend
+2017-04-19 04:53:48.506 Exception: Boy 6 doesn't get a girlfriend
+2017-04-19 04:53:48.506 Exception: Girl 7 doesn't get a boyfriend
+2017-04-19 04:53:48.507 Exception: Boy 7 doesn't get a girlfriend
+2017-04-19 04:53:48.507 Exception: Girl 8 doesn't get a boyfriend
+2017-04-19 04:53:48.507 Exception: Boy 8 doesn't get a girlfriend
+2017-04-19 04:53:48.507 Exception: Girl 9 doesn't get a boyfriend
+2017-04-19 04:53:48.508 Exception: Boy 9 doesn't get a girlfriend
+2017-04-19 04:53:48.508 Exception: Girl 10 doesn't get a boyfriend
+2017-04-19 04:53:48.508 Exception: Boy 10 doesn't get a girlfriend
+2017-04-19 04:53:48.508 Exception: Girl 11 doesn't get a boyfriend
+2017-04-19 04:53:48.508 Exception: Boy 11 doesn't get a girlfriend
+2017-04-19 04:53:48.509 Exception: Girl 12 doesn't get a boyfriend
+2017-04-19 04:53:48.509 Exception: Boy 12 doesn't get a girlfriend
+2017-04-19 04:53:48.509 Exception: Girl 13 doesn't get a boyfriend
+2017-04-19 04:53:48.509 Exception: Boy 13 doesn't get a girlfriend
+2017-04-19 04:53:48.509 Exception: Girl 14 doesn't get a boyfriend
+2017-04-19 04:53:48.51 Exception: Boy 14 doesn't get a girlfriend
+2017-04-19 04:53:48.51 Exception: Girl 15 doesn't get a boyfriend
+2017-04-19 04:53:48.51 Exception: Boy 15 doesn't get a girlfriend
+2017-04-19 04:53:48.51 Exception: Girl 16 doesn't get a boyfriend
+2017-04-19 04:53:48.51 Exception: Boy 16 doesn't get a girlfriend
+2017-04-19 04:53:48.511 Exception: Girl 17 doesn't get a boyfriend
+2017-04-19 04:53:48.511 Exception: Boy 17 doesn't get a girlfriend
+2017-04-19 04:53:48.511 Exception: Girl 18 doesn't get a boyfriend
+2017-04-19 04:53:48.511 Exception: Boy 18 doesn't get a girlfriend
+2017-04-19 04:53:48.511 Exception: Girl 19 doesn't get a boyfriend
+2017-04-19 04:53:48.512 Exception: Boy 19 doesn't get a girlfriend
+2017-04-19 04:53:48.512 Exception: Girl 20 doesn't get a boyfriend
+2017-04-19 04:53:48.512 Exception: Boy 20 doesn't get a girlfriend
+2017-04-19 04:53:48.512 Exception: Girl 21 doesn't get a boyfriend
+2017-04-19 04:53:48.512 Exception: Boy 21 doesn't get a girlfriend
+2017-04-19 04:53:48.513 Exception: Girl 22 doesn't get a boyfriend
+2017-04-19 04:53:48.513 Exception: Boy 22 doesn't get a girlfriend
+2017-04-19 04:53:48.513 Exception: Girl 23 doesn't get a boyfriend
+2017-04-19 04:53:48.513 Exception: Boy 23 doesn't get a girlfriend
+2017-04-19 04:53:48.513 Exception: Girl 24 doesn't get a boyfriend
+2017-04-19 04:53:48.514 Exception: Boy 24 doesn't get a girlfriend
+2017-04-19 04:53:48.514 Boy96 gifts Gift39 to Girl6
+2017-04-19 04:53:48.514 Boy96 gifts Gift22 to Girl6
+2017-04-19 04:53:48.514 Boy96 gifts Gift31 to Girl6
+2017-04-19 04:53:48.514 Boy96 gifts Gift50 to Girl6
+2017-04-19 04:53:48.514 Boy96 gifts Gift17 to Girl6
+2017-04-19 04:53:48.515 Boy96 gifts Gift45 to Girl6
+2017-04-19 04:53:48.515 Boy96 gifts Gift9 to Girl6
+2017-04-19 04:53:48.515 Boy96 gifts Gift4 to Girl6
+2017-04-19 04:53:48.515 Boy98 gifts Gift39 to Girl4
+2017-04-19 04:53:48.515 Boy98 gifts Gift22 to Girl4
+2017-04-19 04:53:48.515 Boy98 gifts Gift31 to Girl4
+2017-04-19 04:53:48.515 Boy98 gifts Gift50 to Girl4
+2017-04-19 04:53:48.515 Boy14 gifts Gift39 to Girl21
+2017-04-19 04:53:48.515 Boy14 gifts Gift22 to Girl21
+2017-04-19 04:53:48.515 Boy14 gifts Gift31 to Girl21
+2017-04-19 04:53:48.515 Boy14 gifts Gift50 to Girl21
+2017-04-19 04:53:48.515 Boy14 gifts Gift17 to Girl21
+2017-04-19 04:53:48.515 Boy3 gifts Gift24 to Girl16
+2017-04-19 04:53:48.516 Boy3 gifts Gift19 to Girl16
+2017-04-19 04:53:48.516 Boy3 gifts Gift27 to Girl16
+2017-04-19 04:53:48.516 Boy3 gifts Gift34 to Girl16
+2017-04-19 04:53:48.516 Boy3 gifts Gift14 to Girl16
+2017-04-19 04:53:48.516 Boy3 gifts Gift10 to Girl16
+2017-04-19 04:53:48.516 Boy3 gifts Gift26 to Girl16
+2017-04-19 04:53:48.516 Boy3 gifts Gift37 to Girl16
+2017-04-19 04:53:48.516 Boy3 gifts Gift18 to Girl16
+2017-04-19 04:53:48.516 Boy3 gifts Gift29 to Girl16
+2017-04-19 04:53:48.516 Boy3 gifts Gift1 to Girl16
+2017-04-19 04:53:48.516 Boy3 gifts Gift21 to Girl16
+2017-04-19 04:53:48.516 Boy3 gifts Gift49 to Girl16
+2017-04-19 04:53:48.516 Boy1 gifts Gift24 to Girl15
+2017-04-19 04:53:48.517 Boy1 gifts Gift19 to Girl15
+2017-04-19 04:53:48.517 Boy1 gifts Gift27 to Girl15
+2017-04-19 04:53:48.517 Boy1 gifts Gift34 to Girl15
+2017-04-19 04:53:48.517 Boy1 gifts Gift14 to Girl15
+2017-04-19 04:53:48.517 Boy1 gifts Gift10 to Girl15
+2017-04-19 04:53:48.517 Boy1 gifts Gift26 to Girl15
+2017-04-19 04:53:48.517 Boy1 gifts Gift37 to Girl15
+2017-04-19 04:53:48.517 Boy1 gifts Gift18 to Girl15
+2017-04-19 04:53:48.517 Boy1 gifts Gift29 to Girl15
+2017-04-19 04:53:48.517 Boy1 gifts Gift1 to Girl15
+2017-04-19 04:53:48.517 Boy1 gifts Gift21 to Girl15
+2017-04-19 04:53:48.517 Boy1 gifts Gift49 to Girl15
+2017-04-19 04:53:48.517 Boy1 gifts Gift46 to Girl15
+2017-04-19 04:53:48.517 Boy1 gifts Gift13 to Girl15
+2017-04-19 04:53:48.517 Boy1 gifts Gift47 to Girl15
+2017-04-19 04:53:48.518 Boy1 gifts Gift11 to Girl15
+2017-04-19 04:53:48.518 Boy1 gifts Gift41 to Girl15
+2017-04-19 04:53:48.518 Boy1 gifts Gift16 to Girl15
+2017-04-19 04:53:48.518 Boy1 gifts Gift20 to Girl15
+2017-04-19 04:53:48.518 Boy1 gifts Gift42 to Girl15
+2017-04-19 04:53:48.518 Boy1 gifts Gift35 to Girl15
+2017-04-19 04:53:48.518 Boy1 gifts Gift36 to Girl15
+2017-04-19 04:53:48.518 Boy9 gifts Gift24 to Girl25
+2017-04-19 04:53:48.518 Boy9 gifts Gift19 to Girl25
+2017-04-19 04:53:48.518 Boy9 gifts Gift27 to Girl25
+2017-04-19 04:53:48.518 Boy9 gifts Gift34 to Girl25
+2017-04-19 04:53:48.518 Boy9 gifts Gift14 to Girl25
+2017-04-19 04:53:48.519 Boy9 gifts Gift10 to Girl25
+2017-04-19 04:53:48.519 Boy9 gifts Gift26 to Girl25
+2017-04-19 04:53:48.519 Boy9 gifts Gift37 to Girl25
+2017-04-19 04:53:48.519 Boy9 gifts Gift18 to Girl25
+2017-04-19 04:53:48.519 Boy9 gifts Gift29 to Girl25
+2017-04-19 04:53:48.519 Boy9 gifts Gift1 to Girl25
+2017-04-19 04:53:48.519 Boy9 gifts Gift21 to Girl25
+2017-04-19 04:53:48.519 Boy9 gifts Gift49 to Girl25
+2017-04-19 04:53:48.519 Boy9 gifts Gift46 to Girl25
+2017-04-19 04:53:48.519 Boy9 gifts Gift13 to Girl25
+2017-04-19 04:53:48.519 Boy9 gifts Gift47 to Girl25
+2017-04-19 04:53:48.52 Boy9 gifts Gift11 to Girl25
+2017-04-19 04:53:48.52 Boy9 gifts Gift41 to Girl25
+2017-04-19 04:53:48.52 Boy9 gifts Gift16 to Girl25
+2017-04-19 04:53:48.52 Boy9 gifts Gift20 to Girl25
+2017-04-19 04:53:48.52 Boy9 gifts Gift42 to Girl25
+2017-04-19 04:53:48.52 Boy9 gifts Gift35 to Girl25
+2017-04-19 04:53:48.52 Boy9 gifts Gift36 to Girl25
+2017-04-19 04:53:48.52 Boy9 gifts Gift48 to Girl25
+2017-04-19 04:53:48.52 Boy9 gifts Gift23 to Girl25
+2017-04-19 04:53:48.52 Boy32 gifts Gift24 to Girl22
+2017-04-19 04:53:48.52 Boy32 gifts Gift19 to Girl22
+2017-04-19 04:53:48.52 Boy32 gifts Gift27 to Girl22
+2017-04-19 04:53:48.52 Boy32 gifts Gift34 to Girl22
+2017-04-19 04:53:48.521 Boy32 gifts Gift14 to Girl22
+2017-04-19 04:53:48.521 Boy32 gifts Gift10 to Girl22
+2017-04-19 04:53:48.521 Boy32 gifts Gift26 to Girl22
+2017-04-19 04:53:48.521 Boy32 gifts Gift37 to Girl22
+2017-04-19 04:53:48.521 Boy32 gifts Gift18 to Girl22
+2017-04-19 04:53:48.521 Boy32 gifts Gift29 to Girl22
+2017-04-19 04:53:48.521 Boy32 gifts Gift1 to Girl22
+2017-04-19 04:53:48.521 Boy32 gifts Gift21 to Girl22
+2017-04-19 04:53:48.521 Boy32 gifts Gift49 to Girl22
+2017-04-19 04:53:48.521 Boy32 gifts Gift46 to Girl22
+2017-04-19 04:53:48.521 Boy32 gifts Gift13 to Girl22
+2017-04-19 04:53:48.521 Boy32 gifts Gift47 to Girl22
+2017-04-19 04:53:48.521 Boy32 gifts Gift11 to Girl22
+2017-04-19 04:53:48.522 Boy32 gifts Gift41 to Girl22
+2017-04-19 04:53:48.522 Boy32 gifts Gift16 to Girl22
+2017-04-19 04:53:48.522 Boy32 gifts Gift20 to Girl22
+2017-04-19 04:53:48.522 Boy32 gifts Gift42 to Girl22
+2017-04-19 04:53:48.522 Boy32 gifts Gift35 to Girl22
+2017-04-19 04:53:48.522 Boy32 gifts Gift36 to Girl22
+2017-04-19 04:53:48.522 Boy32 gifts Gift48 to Girl22
+2017-04-19 04:53:48.522 Boy32 gifts Gift23 to Girl22
+2017-04-19 04:53:48.522 Boy32 gifts Gift6 to Girl22
+2017-04-19 04:53:48.522 Boy32 gifts Gift15 to Girl22
+2017-04-19 04:53:48.522 Boy32 gifts Gift40 to Girl22
+2017-04-19 04:53:48.522 Boy88 gifts Gift24 to Girl9
+2017-04-19 04:53:48.522 Boy88 gifts Gift19 to Girl9
+2017-04-19 04:53:48.523 Boy88 gifts Gift27 to Girl9
+2017-04-19 04:53:48.523 Boy88 gifts Gift34 to Girl9
+2017-04-19 04:53:48.523 Boy88 gifts Gift14 to Girl9
+2017-04-19 04:53:48.523 Boy88 gifts Gift10 to Girl9
+2017-04-19 04:53:48.523 Boy88 gifts Gift26 to Girl9
+2017-04-19 04:53:48.523 Boy88 gifts Gift37 to Girl9
+2017-04-19 04:53:48.523 Boy88 gifts Gift18 to Girl9
+2017-04-19 04:53:48.523 Boy88 gifts Gift29 to Girl9
+2017-04-19 04:53:48.523 Boy88 gifts Gift1 to Girl9
+2017-04-19 04:53:48.523 Boy88 gifts Gift21 to Girl9
+2017-04-19 04:53:48.523 Boy88 gifts Gift49 to Girl9
+2017-04-19 04:53:48.523 Boy88 gifts Gift46 to Girl9
+2017-04-19 04:53:48.523 Boy88 gifts Gift13 to Girl9
+2017-04-19 04:53:48.524 Boy88 gifts Gift47 to Girl9
+2017-04-19 04:53:48.524 Boy88 gifts Gift11 to Girl9
+2017-04-19 04:53:48.524 Boy88 gifts Gift41 to Girl9
+2017-04-19 04:53:48.524 Boy88 gifts Gift16 to Girl9
+2017-04-19 04:53:48.524 Boy88 gifts Gift20 to Girl9
+2017-04-19 04:53:48.524 Boy88 gifts Gift42 to Girl9
+2017-04-19 04:53:48.524 Boy88 gifts Gift35 to Girl9
+2017-04-19 04:53:48.524 Boy88 gifts Gift36 to Girl9
+2017-04-19 04:53:48.524 Boy88 gifts Gift48 to Girl9
+2017-04-19 04:53:48.524 Boy88 gifts Gift23 to Girl9
+2017-04-19 04:53:48.524 Boy19 gifts Gift24 to Girl1
+2017-04-19 04:53:48.525 Boy19 gifts Gift19 to Girl1
+2017-04-19 04:53:48.525 Boy19 gifts Gift27 to Girl1
+2017-04-19 04:53:48.525 Boy19 gifts Gift34 to Girl1
+2017-04-19 04:53:48.525 Boy19 gifts Gift14 to Girl1
+2017-04-19 04:53:48.525 Boy19 gifts Gift10 to Girl1
+2017-04-19 04:53:48.525 Boy19 gifts Gift26 to Girl1
+2017-04-19 04:53:48.525 Boy19 gifts Gift37 to Girl1
+2017-04-19 04:53:48.525 Boy19 gifts Gift18 to Girl1
+2017-04-19 04:53:48.525 Boy19 gifts Gift29 to Girl1
+2017-04-19 04:53:48.525 Boy19 gifts Gift1 to Girl1
+2017-04-19 04:53:48.525 Boy19 gifts Gift21 to Girl1
+2017-04-19 04:53:48.525 Boy19 gifts Gift49 to Girl1
+2017-04-19 04:53:48.526 Boy19 gifts Gift46 to Girl1
+2017-04-19 04:53:48.526 Boy19 gifts Gift13 to Girl1
+2017-04-19 04:53:48.526 Boy19 gifts Gift47 to Girl1
+2017-04-19 04:53:48.526 Boy19 gifts Gift11 to Girl1
+2017-04-19 04:53:48.526 Boy19 gifts Gift41 to Girl1
+2017-04-19 04:53:48.526 Boy19 gifts Gift16 to Girl1
+2017-04-19 04:53:48.526 Boy19 gifts Gift20 to Girl1
+2017-04-19 04:53:48.526 Boy19 gifts Gift42 to Girl1
+2017-04-19 04:53:48.526 Boy19 gifts Gift35 to Girl1
+2017-04-19 04:53:48.526 Boy19 gifts Gift36 to Girl1
+2017-04-19 04:53:48.526 Boy19 gifts Gift48 to Girl1
+2017-04-19 04:53:48.526 Boy19 gifts Gift23 to Girl1
+2017-04-19 04:53:48.526 Boy19 gifts Gift6 to Girl1
+2017-04-19 04:53:48.527 Boy19 gifts Gift15 to Girl1
+2017-04-19 04:53:48.527 Boy19 gifts Gift40 to Girl1
+2017-04-19 04:53:48.527 Boy19 gifts Gift30 to Girl1
+2017-04-19 04:53:48.527 Boy5 gifts Gift24 to Girl18
+2017-04-19 04:53:48.527 Boy5 gifts Gift19 to Girl18
+2017-04-19 04:53:48.527 Boy5 gifts Gift27 to Girl18
+2017-04-19 04:53:48.527 Boy5 gifts Gift34 to Girl18
+2017-04-19 04:53:48.527 Boy5 gifts Gift14 to Girl18
+2017-04-19 04:53:48.527 Boy5 gifts Gift10 to Girl18
+2017-04-19 04:53:48.527 Boy5 gifts Gift26 to Girl18
+2017-04-19 04:53:48.527 Boy5 gifts Gift37 to Girl18
+2017-04-19 04:53:48.527 Boy5 gifts Gift18 to Girl18
+2017-04-19 04:53:48.527 Boy5 gifts Gift29 to Girl18
+2017-04-19 04:53:48.528 Boy5 gifts Gift1 to Girl18
+2017-04-19 04:53:48.528 Boy5 gifts Gift21 to Girl18
+2017-04-19 04:53:48.528 Boy5 gifts Gift49 to Girl18
+2017-04-19 04:53:48.528 Boy5 gifts Gift46 to Girl18
+2017-04-19 04:53:48.528 Boy5 gifts Gift13 to Girl18
+2017-04-19 04:53:48.528 Boy5 gifts Gift47 to Girl18
+2017-04-19 04:53:48.528 Boy5 gifts Gift11 to Girl18
+2017-04-19 04:53:48.528 Boy5 gifts Gift41 to Girl18
+2017-04-19 04:53:48.528 Boy5 gifts Gift16 to Girl18
+2017-04-19 04:53:48.528 Boy5 gifts Gift20 to Girl18
+2017-04-19 04:53:48.528 Boy4 gifts Gift24 to Girl19
+2017-04-19 04:53:48.528 Boy4 gifts Gift19 to Girl19
+2017-04-19 04:53:48.529 Boy4 gifts Gift27 to Girl19
+2017-04-19 04:53:48.529 Boy4 gifts Gift34 to Girl19
+2017-04-19 04:53:48.529 Boy4 gifts Gift14 to Girl19
+2017-04-19 04:53:48.529 Boy4 gifts Gift10 to Girl19
+2017-04-19 04:53:48.529 Boy4 gifts Gift26 to Girl19
+2017-04-19 04:53:48.529 Boy4 gifts Gift37 to Girl19
+2017-04-19 04:53:48.529 Boy4 gifts Gift18 to Girl19
+2017-04-19 04:53:48.529 Boy4 gifts Gift29 to Girl19
+2017-04-19 04:53:48.529 Boy4 gifts Gift1 to Girl19
+2017-04-19 04:53:48.529 Boy4 gifts Gift21 to Girl19
+2017-04-19 04:53:48.529 Boy4 gifts Gift49 to Girl19
+2017-04-19 04:53:48.529 Boy4 gifts Gift46 to Girl19
+2017-04-19 04:53:48.53 Boy4 gifts Gift13 to Girl19
+2017-04-19 04:53:48.53 Boy4 gifts Gift47 to Girl19
+2017-04-19 04:53:48.53 Boy4 gifts Gift11 to Girl19
+2017-04-19 04:53:48.53 Boy4 gifts Gift41 to Girl19
+2017-04-19 04:53:48.53 Boy4 gifts Gift16 to Girl19
+2017-04-19 04:53:48.53 Exception: Less than 15 couples formed
+2017-04-19 04:53:48.531 Exception: Girl 0 doesn't get a boyfriend
+2017-04-19 04:53:48.531 Exception: Girl 1 doesn't get a boyfriend
+2017-04-19 04:53:48.531 Exception: Girl 2 doesn't get a boyfriend
+2017-04-19 04:53:48.531 Exception: Girl 3 doesn't get a boyfriend
+2017-04-19 04:53:48.531 Exception: Girl 4 doesn't get a boyfriend
+2017-04-19 04:53:48.532 Exception: Girl 5 doesn't get a boyfriend
+2017-04-19 04:53:48.532 Exception: Girl 6 doesn't get a boyfriend
+2017-04-19 04:53:48.532 Exception: Girl 7 doesn't get a boyfriend
+2017-04-19 04:53:48.532 Exception: Girl 8 doesn't get a boyfriend
+2017-04-19 04:53:48.532 Exception: Girl 9 doesn't get a boyfriend
+2017-04-19 04:53:48.532 Exception: Girl 10 doesn't get a boyfriend
+2017-04-19 04:53:48.532 Exception: Girl 11 doesn't get a boyfriend
+2017-04-19 04:53:48.533 Exception: Girl 12 doesn't get a boyfriend
+2017-04-19 04:53:48.533 Exception: Girl 13 doesn't get a boyfriend
+2017-04-19 04:53:48.533 Exception: Girl 14 doesn't get a boyfriend
+2017-04-19 04:53:48.533 Exception: Girl 15 doesn't get a boyfriend
+2017-04-19 04:53:48.533 Exception: Girl 16 doesn't get a boyfriend
+2017-04-19 04:53:48.533 Exception: Girl 17 doesn't get a boyfriend
+2017-04-19 04:53:48.533 Exception: Girl 18 doesn't get a boyfriend
+2017-04-19 04:53:48.533 Exception: Girl 19 doesn't get a boyfriend
+2017-04-19 04:53:48.534 Exception: Girl 20 doesn't get a boyfriend
+2017-04-19 04:53:48.534 Exception: Girl 21 doesn't get a boyfriend
+2017-04-19 04:53:48.534 Exception: Girl 22 doesn't get a boyfriend
+2017-04-19 04:53:48.534 Exception: Girl 23 doesn't get a boyfriend
+2017-04-19 04:53:48.534 Exception: Girl 24 doesn't get a boyfriend
+2017-04-19 04:53:48.535 Boy96 gifts Gift39 to Girl6
+2017-04-19 04:53:48.535 Boy96 gifts Gift22 to Girl6
+2017-04-19 04:53:48.535 Boy96 gifts Gift31 to Girl6
+2017-04-19 04:53:48.535 Boy96 gifts Gift50 to Girl6
+2017-04-19 04:53:48.535 Boy96 gifts Gift17 to Girl6
+2017-04-19 04:53:48.535 Boy96 gifts Gift45 to Girl6
+2017-04-19 04:53:48.535 Boy96 gifts Gift9 to Girl6
+2017-04-19 04:53:48.535 Boy96 gifts Gift4 to Girl6
+2017-04-19 04:53:48.536 Boy98 gifts Gift39 to Girl4
+2017-04-19 04:53:48.536 Boy98 gifts Gift22 to Girl4
+2017-04-19 04:53:48.536 Boy98 gifts Gift31 to Girl4
+2017-04-19 04:53:48.536 Boy98 gifts Gift50 to Girl4
+2017-04-19 04:53:48.536 Boy14 gifts Gift39 to Girl21
+2017-04-19 04:53:48.536 Boy14 gifts Gift22 to Girl21
+2017-04-19 04:53:48.536 Boy14 gifts Gift31 to Girl21
+2017-04-19 04:53:48.536 Boy14 gifts Gift50 to Girl21
+2017-04-19 04:53:48.536 Boy14 gifts Gift17 to Girl21
+2017-04-19 04:53:48.536 Boy3 gifts Gift24 to Girl16
+2017-04-19 04:53:48.536 Boy3 gifts Gift19 to Girl16
+2017-04-19 04:53:48.536 Boy3 gifts Gift27 to Girl16
+2017-04-19 04:53:48.536 Boy3 gifts Gift34 to Girl16
+2017-04-19 04:53:48.536 Boy3 gifts Gift14 to Girl16
+2017-04-19 04:53:48.537 Boy3 gifts Gift10 to Girl16
+2017-04-19 04:53:48.537 Boy3 gifts Gift26 to Girl16
+2017-04-19 04:53:48.537 Boy3 gifts Gift37 to Girl16
+2017-04-19 04:53:48.537 Boy3 gifts Gift18 to Girl16
+2017-04-19 04:53:48.537 Boy3 gifts Gift29 to Girl16
+2017-04-19 04:53:48.537 Boy3 gifts Gift1 to Girl16
+2017-04-19 04:53:48.537 Boy3 gifts Gift21 to Girl16
+2017-04-19 04:53:48.537 Boy3 gifts Gift49 to Girl16
+2017-04-19 04:53:48.537 Boy1 gifts Gift24 to Girl15
+2017-04-19 04:53:48.537 Boy1 gifts Gift19 to Girl15
+2017-04-19 04:53:48.537 Boy1 gifts Gift27 to Girl15
+2017-04-19 04:53:48.537 Boy1 gifts Gift34 to Girl15
+2017-04-19 04:53:48.537 Boy1 gifts Gift14 to Girl15
+2017-04-19 04:53:48.538 Boy1 gifts Gift10 to Girl15
+2017-04-19 04:53:48.538 Boy1 gifts Gift26 to Girl15
+2017-04-19 04:53:48.538 Boy1 gifts Gift37 to Girl15
+2017-04-19 04:53:48.538 Boy1 gifts Gift18 to Girl15
+2017-04-19 04:53:48.538 Boy1 gifts Gift29 to Girl15
+2017-04-19 04:53:48.538 Boy1 gifts Gift1 to Girl15
+2017-04-19 04:53:48.538 Boy1 gifts Gift21 to Girl15
+2017-04-19 04:53:48.538 Boy1 gifts Gift49 to Girl15
+2017-04-19 04:53:48.538 Boy1 gifts Gift46 to Girl15
+2017-04-19 04:53:48.538 Boy1 gifts Gift13 to Girl15
+2017-04-19 04:53:48.538 Boy1 gifts Gift47 to Girl15
+2017-04-19 04:53:48.538 Boy1 gifts Gift11 to Girl15
+2017-04-19 04:53:48.538 Boy1 gifts Gift41 to Girl15
+2017-04-19 04:53:48.538 Boy1 gifts Gift16 to Girl15
+2017-04-19 04:53:48.538 Boy1 gifts Gift20 to Girl15
+2017-04-19 04:53:48.539 Boy1 gifts Gift42 to Girl15
+2017-04-19 04:53:48.539 Boy1 gifts Gift35 to Girl15
+2017-04-19 04:53:48.539 Boy1 gifts Gift36 to Girl15
+2017-04-19 04:53:48.539 Boy9 gifts Gift24 to Girl25
+2017-04-19 04:53:48.539 Boy9 gifts Gift19 to Girl25
+2017-04-19 04:53:48.539 Boy9 gifts Gift27 to Girl25
+2017-04-19 04:53:48.539 Boy9 gifts Gift34 to Girl25
+2017-04-19 04:53:48.539 Boy9 gifts Gift14 to Girl25
+2017-04-19 04:53:48.539 Boy9 gifts Gift10 to Girl25
+2017-04-19 04:53:48.539 Boy9 gifts Gift26 to Girl25
+2017-04-19 04:53:48.539 Boy9 gifts Gift37 to Girl25
+2017-04-19 04:53:48.539 Boy9 gifts Gift18 to Girl25
+2017-04-19 04:53:48.54 Boy9 gifts Gift29 to Girl25
+2017-04-19 04:53:48.54 Boy9 gifts Gift1 to Girl25
+2017-04-19 04:53:48.54 Boy9 gifts Gift21 to Girl25
+2017-04-19 04:53:48.54 Boy9 gifts Gift49 to Girl25
+2017-04-19 04:53:48.54 Boy9 gifts Gift46 to Girl25
+2017-04-19 04:53:48.54 Boy9 gifts Gift13 to Girl25
+2017-04-19 04:53:48.54 Boy9 gifts Gift47 to Girl25
+2017-04-19 04:53:48.54 Boy9 gifts Gift11 to Girl25
+2017-04-19 04:53:48.54 Boy9 gifts Gift41 to Girl25
+2017-04-19 04:53:48.54 Boy9 gifts Gift16 to Girl25
+2017-04-19 04:53:48.54 Boy9 gifts Gift20 to Girl25
+2017-04-19 04:53:48.54 Boy9 gifts Gift42 to Girl25
+2017-04-19 04:53:48.54 Boy9 gifts Gift35 to Girl25
+2017-04-19 04:53:48.54 Boy9 gifts Gift36 to Girl25
+2017-04-19 04:53:48.541 Boy9 gifts Gift48 to Girl25
+2017-04-19 04:53:48.541 Boy9 gifts Gift23 to Girl25
+2017-04-19 04:53:48.541 Boy32 gifts Gift24 to Girl22
+2017-04-19 04:53:48.541 Boy32 gifts Gift19 to Girl22
+2017-04-19 04:53:48.541 Boy32 gifts Gift27 to Girl22
+2017-04-19 04:53:48.541 Boy32 gifts Gift34 to Girl22
+2017-04-19 04:53:48.541 Boy32 gifts Gift14 to Girl22
+2017-04-19 04:53:48.541 Boy32 gifts Gift10 to Girl22
+2017-04-19 04:53:48.541 Boy32 gifts Gift26 to Girl22
+2017-04-19 04:53:48.542 Boy32 gifts Gift37 to Girl22
+2017-04-19 04:53:48.542 Boy32 gifts Gift18 to Girl22
+2017-04-19 04:53:48.542 Boy32 gifts Gift29 to Girl22
+2017-04-19 04:53:48.542 Boy32 gifts Gift1 to Girl22
+2017-04-19 04:53:48.542 Boy32 gifts Gift21 to Girl22
+2017-04-19 04:53:48.542 Boy32 gifts Gift49 to Girl22
+2017-04-19 04:53:48.542 Boy32 gifts Gift46 to Girl22
+2017-04-19 04:53:48.542 Boy32 gifts Gift13 to Girl22
+2017-04-19 04:53:48.542 Boy32 gifts Gift47 to Girl22
+2017-04-19 04:53:48.543 Boy32 gifts Gift11 to Girl22
+2017-04-19 04:53:48.543 Boy32 gifts Gift41 to Girl22
+2017-04-19 04:53:48.543 Boy32 gifts Gift16 to Girl22
+2017-04-19 04:53:48.543 Boy32 gifts Gift20 to Girl22
+2017-04-19 04:53:48.543 Boy32 gifts Gift42 to Girl22
+2017-04-19 04:53:48.543 Boy32 gifts Gift35 to Girl22
+2017-04-19 04:53:48.543 Boy32 gifts Gift36 to Girl22
+2017-04-19 04:53:48.543 Boy32 gifts Gift48 to Girl22
+2017-04-19 04:53:48.543 Boy32 gifts Gift23 to Girl22
+2017-04-19 04:53:48.543 Boy32 gifts Gift6 to Girl22
+2017-04-19 04:53:48.543 Boy32 gifts Gift15 to Girl22
+2017-04-19 04:53:48.543 Boy32 gifts Gift40 to Girl22
+2017-04-19 04:53:48.543 Boy88 gifts Gift24 to Girl9
+2017-04-19 04:53:48.544 Boy88 gifts Gift19 to Girl9
+2017-04-19 04:53:48.544 Boy88 gifts Gift27 to Girl9
+2017-04-19 04:53:48.544 Boy88 gifts Gift34 to Girl9
+2017-04-19 04:53:48.544 Boy88 gifts Gift14 to Girl9
+2017-04-19 04:53:48.544 Boy88 gifts Gift10 to Girl9
+2017-04-19 04:53:48.544 Boy88 gifts Gift26 to Girl9
+2017-04-19 04:53:48.544 Boy88 gifts Gift37 to Girl9
+2017-04-19 04:53:48.544 Boy88 gifts Gift18 to Girl9
+2017-04-19 04:53:48.544 Boy88 gifts Gift29 to Girl9
+2017-04-19 04:53:48.544 Boy88 gifts Gift1 to Girl9
+2017-04-19 04:53:48.544 Boy88 gifts Gift21 to Girl9
+2017-04-19 04:53:48.544 Boy88 gifts Gift49 to Girl9
+2017-04-19 04:53:48.544 Boy88 gifts Gift46 to Girl9
+2017-04-19 04:53:48.544 Boy88 gifts Gift13 to Girl9
+2017-04-19 04:53:48.545 Boy88 gifts Gift47 to Girl9
+2017-04-19 04:53:48.545 Boy88 gifts Gift11 to Girl9
+2017-04-19 04:53:48.545 Boy88 gifts Gift41 to Girl9
+2017-04-19 04:53:48.545 Boy88 gifts Gift16 to Girl9
+2017-04-19 04:53:48.545 Boy88 gifts Gift20 to Girl9
+2017-04-19 04:53:48.545 Boy88 gifts Gift42 to Girl9
+2017-04-19 04:53:48.545 Boy88 gifts Gift35 to Girl9
+2017-04-19 04:53:48.545 Boy88 gifts Gift36 to Girl9
+2017-04-19 04:53:48.545 Boy88 gifts Gift48 to Girl9
+2017-04-19 04:53:48.545 Boy88 gifts Gift23 to Girl9
+2017-04-19 04:53:48.545 Boy19 gifts Gift24 to Girl1
+2017-04-19 04:53:48.545 Boy19 gifts Gift19 to Girl1
+2017-04-19 04:53:48.545 Boy19 gifts Gift27 to Girl1
+2017-04-19 04:53:48.546 Boy19 gifts Gift34 to Girl1
+2017-04-19 04:53:48.546 Boy19 gifts Gift14 to Girl1
+2017-04-19 04:53:48.546 Boy19 gifts Gift10 to Girl1
+2017-04-19 04:53:48.546 Boy19 gifts Gift26 to Girl1
+2017-04-19 04:53:48.546 Boy19 gifts Gift37 to Girl1
+2017-04-19 04:53:48.546 Boy19 gifts Gift18 to Girl1
+2017-04-19 04:53:48.546 Boy19 gifts Gift29 to Girl1
+2017-04-19 04:53:48.546 Boy19 gifts Gift1 to Girl1
+2017-04-19 04:53:48.546 Boy19 gifts Gift21 to Girl1
+2017-04-19 04:53:48.546 Boy19 gifts Gift49 to Girl1
+2017-04-19 04:53:48.546 Boy19 gifts Gift46 to Girl1
+2017-04-19 04:53:48.546 Boy19 gifts Gift13 to Girl1
+2017-04-19 04:53:48.546 Boy19 gifts Gift47 to Girl1
+2017-04-19 04:53:48.546 Boy19 gifts Gift11 to Girl1
+2017-04-19 04:53:48.547 Boy19 gifts Gift41 to Girl1
+2017-04-19 04:53:48.547 Boy19 gifts Gift16 to Girl1
+2017-04-19 04:53:48.547 Boy19 gifts Gift20 to Girl1
+2017-04-19 04:53:48.547 Boy19 gifts Gift42 to Girl1
+2017-04-19 04:53:48.547 Boy19 gifts Gift35 to Girl1
+2017-04-19 04:53:48.547 Boy19 gifts Gift36 to Girl1
+2017-04-19 04:53:48.547 Boy19 gifts Gift48 to Girl1
+2017-04-19 04:53:48.547 Boy19 gifts Gift23 to Girl1
+2017-04-19 04:53:48.547 Boy19 gifts Gift6 to Girl1
+2017-04-19 04:53:48.547 Boy19 gifts Gift15 to Girl1
+2017-04-19 04:53:48.547 Boy19 gifts Gift40 to Girl1
+2017-04-19 04:53:48.547 Boy19 gifts Gift30 to Girl1
+2017-04-19 04:53:48.547 Boy5 gifts Gift24 to Girl18
+2017-04-19 04:53:48.547 Boy5 gifts Gift19 to Girl18
+2017-04-19 04:53:48.548 Boy5 gifts Gift27 to Girl18
+2017-04-19 04:53:48.548 Boy5 gifts Gift34 to Girl18
+2017-04-19 04:53:48.548 Boy5 gifts Gift14 to Girl18
+2017-04-19 04:53:48.548 Boy5 gifts Gift10 to Girl18
+2017-04-19 04:53:48.548 Boy5 gifts Gift26 to Girl18
+2017-04-19 04:53:48.548 Boy5 gifts Gift37 to Girl18
+2017-04-19 04:53:48.548 Boy5 gifts Gift18 to Girl18
+2017-04-19 04:53:48.548 Boy5 gifts Gift29 to Girl18
+2017-04-19 04:53:48.548 Boy5 gifts Gift1 to Girl18
+2017-04-19 04:53:48.548 Boy5 gifts Gift21 to Girl18
+2017-04-19 04:53:48.548 Boy5 gifts Gift49 to Girl18
+2017-04-19 04:53:48.548 Boy5 gifts Gift46 to Girl18
+2017-04-19 04:53:48.548 Boy5 gifts Gift13 to Girl18
+2017-04-19 04:53:48.548 Boy5 gifts Gift47 to Girl18
+2017-04-19 04:53:48.548 Boy5 gifts Gift11 to Girl18
+2017-04-19 04:53:48.549 Boy5 gifts Gift41 to Girl18
+2017-04-19 04:53:48.549 Boy5 gifts Gift16 to Girl18
+2017-04-19 04:53:48.549 Boy5 gifts Gift20 to Girl18
+2017-04-19 04:53:48.549 Boy4 gifts Gift24 to Girl19
+2017-04-19 04:53:48.549 Boy4 gifts Gift19 to Girl19
+2017-04-19 04:53:48.549 Boy4 gifts Gift27 to Girl19
+2017-04-19 04:53:48.549 Boy4 gifts Gift34 to Girl19
+2017-04-19 04:53:48.549 Boy4 gifts Gift14 to Girl19
+2017-04-19 04:53:48.549 Boy4 gifts Gift10 to Girl19
+2017-04-19 04:53:48.549 Boy4 gifts Gift26 to Girl19
+2017-04-19 04:53:48.549 Boy4 gifts Gift37 to Girl19
+2017-04-19 04:53:48.549 Boy4 gifts Gift18 to Girl19
+2017-04-19 04:53:48.549 Boy4 gifts Gift29 to Girl19
+2017-04-19 04:53:48.549 Boy4 gifts Gift1 to Girl19
+2017-04-19 04:53:48.549 Boy4 gifts Gift21 to Girl19
+2017-04-19 04:53:48.55 Boy4 gifts Gift49 to Girl19
+2017-04-19 04:53:48.55 Boy4 gifts Gift46 to Girl19
+2017-04-19 04:53:48.55 Boy4 gifts Gift13 to Girl19
+2017-04-19 04:53:48.55 Boy4 gifts Gift47 to Girl19
+2017-04-19 04:53:48.55 Boy4 gifts Gift11 to Girl19
+2017-04-19 04:53:48.55 Boy4 gifts Gift41 to Girl19
+2017-04-19 04:53:48.55 Boy4 gifts Gift16 to Girl19
+2017-04-19 04:53:48.55 Exception: Less than 15 couples formed
+2017-04-19 04:53:48.551 Exception: Invalid k 
